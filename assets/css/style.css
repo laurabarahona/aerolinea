@@ -1,0 +1,35 @@
+#background{
+    background-color: #62DAD3;
+}
+.navbar{
+    background-color: #051B54;
+}
+.botongris{
+    background-color: #eeeded;
+    color: black;
+    border: 1px solid rgb(210, 205, 205);
+}
+.botonbonito{
+    background-color: #FFFFFF33;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.sombra {
+    box-shadow: 0 4px 8px rgb(51, 50, 50);
+    padding: 10px;
+    border-radius: 8px;
+    background-color: white;
+    max-width: 1380px;
+    margin: 0 auto;
+} 
+.texto{
+    margin-left: 20px;
+}
+.imagen{
+    width: 478px;
+    height: 300px;
+}
+h1, h4, h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
